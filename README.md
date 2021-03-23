@@ -8,6 +8,14 @@ This project explains how GIT and GitHub works
 
 Sample website with plenty of files for demos
 
+Adding Introduction text
+
+Adding second set of Introduction 
+
+learning pupose
+
 ## Deploy
 
 deployment
+
+Adding more Deployment Instruction
