@@ -20,6 +20,10 @@ deployment
 
 Adding more Deployment Instruction
 
+## how to contribute
+
+please fork this repository and issue pull 
+
 ## copyright notice
 
 2021 Git.Training
