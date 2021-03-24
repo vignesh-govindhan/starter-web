@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work
 
 This project explains how GIT and GitHub works
 
-Adding a line for rebasing demo
+Adding a line for rebasing demo --- changes from myfuture branch also
 
 ## Purpose
 
