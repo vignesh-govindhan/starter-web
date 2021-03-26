@@ -8,6 +8,7 @@
 # THANKS
 
    Thanks for the Instructor
+   Extra text for Stashing test
 
 # TECHNOLOGY COLOPHON
 
